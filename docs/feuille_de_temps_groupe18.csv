@@ -1,0 +1,18 @@
+Date;Membre;Duree_en_heures;Tache
+2026-05-06;Djawad Toure;0.5;add README
+2026-05-08;Aldo Alex Nganji;1.0;docs: add UML class diagram for student IUT system
+2026-05-08;Aldo Alex Nganji;0.5;docs: Complete README with project description and repository structure
+2026-05-08;Aldo Alex Nganji;1.5;feat: Creation du squelette du projet Qt (Fichiers .pro, main.cpp, etudiant.hpp, MainWindow.hpp)
+2026-05-09;Djawad Toure;1.4;Implémentation de l'interface principale (MainWindow)
+2026-05-21;Aldo Alex Nganji;0.5;feat: Connexion de la liste au formulaire via les slots et ajout de fake data juste pour tester quoi 
+2026-06-01;Aldo Alex Nganji;1.5;feat: Implémentation de la sauvegarde JSON avec QFileDialog et QFile
+2026-06-02;Djawad Toure ; 6.0; Implémentation des fonctions F1b Chargement XML avec QXmlStreamReader et F3b Sauvegarde XML avec QXmlStreamWriter
+2026-06-02; Djawad TOURE;2.0; Implémentation de la barre de recherche
+2026-05-03; DJawad TOURE; 3.0; Implémentation du fihier de tests xml
+2026-06-03;Aldo Alex Nganji;1.5;F1a - Correction du chargement JSON (parsing complet vers vecteur + suppression fake data + test JSON)
+2026-06-04;Aldo Alex Nganji;2.0;F2-Formulaire détail complet (QDateEdit, QComboBox section, QScrollArea, photo avec QPixmap, afficherDetailsEtudiant mis à jour)
+2026-06-05;Djawad TOURE;2.0; Implémentations du tableaux d'absence avec QTableWidget
+2026-06-05;Djawad TOURE;2.0; Implémentations du formulaire d'absence
+2026-06-06;ADjawad TOURE;4.0; Implémentation Alerte à la fermeture : surcharger `closeEvent()` avec `QMessageBox` (Save / Discard / Cancel) + Ajouter l'absence et  Supprimer l'absence
+2026-06-06;Djawad TOURE ; 3.0; Implementation de la fonction creerNouvelEtudiant() et connection du bouton
+2026-06-07; Djawad TOPURE; 2.0; Test et correction des fonctionnalité chargement/sauvegarde xml , filtre

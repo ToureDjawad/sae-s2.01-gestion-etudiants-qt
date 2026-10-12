@@ -1,0 +1,13 @@
+# Binaires générés
+GestionEtudiants
+GestionEtudiants.exe
+*.o
+*.obj
+
+# Makefile (généré automatiquement par qmake)
+Makefile
+
+# Fichiers Qt Creator 
+*.pro.user 
+.qmake.stash
+build/ 

@@ -1,0 +1,410 @@
+[
+    {
+        "absences": [
+            {
+                "date": "10/03/2025",
+                "dureeCours": "2h",
+                "estJustifiee": true,
+                "motif": "Maladie",
+                "titreCours": "Algorithmique"
+            }
+        ],
+        "adresseParents": "1 place Fictive, 13001 Marseille",
+        "adressePerso": "10 rue de l'Exemple, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "12/04/2005",
+        "emailAmu": "lucas.martin@etu.univ-amu.fr",
+        "emailPerso": "lucas.martin@example.com",
+        "nom": "MARTIN",
+        "numEtudiant": "25000001",
+        "numINE": "0000000001A",
+        "prenom": "Lucas",
+        "section": "MMI BUT 3",
+        "telPersonnel": "0600000001"
+    },
+    {
+        "absences": [],
+        "adresseParents": "5 boulevard Modèle, 13100 Aix-en-Provence",
+        "adressePerso": "22 avenue Imaginaire, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "23/09/2005",
+        "emailAmu": "ines.rousseau@etu.univ-amu.fr",
+        "emailPerso": "ines.rousseau@example.com",
+        "nom": "ROUSSEAU",
+        "numEtudiant": "25000002",
+        "numINE": "0000000002B",
+        "prenom": "Inès",
+        "section": "Info BUT 1",
+        "telPersonnel": "0600000002"
+    },
+    {
+        "absences": [
+            {
+                "date": "05/02/2025",
+                "dureeCours": "1h30",
+                "estJustifiee": false,
+                "motif": "",
+                "titreCours": "Mathématiques"
+            },
+            {
+                "date": "18/03/2025",
+                "dureeCours": "2h",
+                "estJustifiee": true,
+                "motif": "Rendez-vous médical",
+                "titreCours": "Anglais"
+            }
+        ],
+        "adresseParents": "12 boulevard National, 13001 Marseille",
+        "adressePerso": "3 rue Voltaire, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "14/02/2006",
+        "emailAmu": "sophie.martin@etu.univ-amu.fr",
+        "emailPerso": "sophie.martin06@gmail.com",
+        "nom": "MARTIN",
+        "numEtudiant": "25041823",
+        "numINE": "0623456789C",
+        "prenom": "Sophie",
+        "section": "Info BUT 1",
+        "telPersonnel": "0612345678"
+    },
+    {
+        "absences": [],
+        "adresseParents": "17 avenue Victor Hugo, 13200 Arles",
+        "adressePerso": "17 avenue Victor Hugo, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "30/09/2005",
+        "emailAmu": "thomas.dubois@etu.univ-amu.fr",
+        "emailPerso": "thomasdubois@outlook.fr",
+        "nom": "DUBOIS",
+        "numEtudiant": "25038920",
+        "numINE": "0534567890D",
+        "prenom": "Thomas",
+        "section": "Info BUT 1",
+        "telPersonnel": "0745678901"
+    },
+    {
+        "absences": [
+            {
+                "date": "12/01/2025",
+                "dureeCours": "3h",
+                "estJustifiee": true,
+                "motif": "Grève des transports",
+                "titreCours": "Interface utilisateur"
+            }
+        ],
+        "adresseParents": "8 rue des Lilas, 13300 Salon-de-Provence",
+        "adressePerso": "22 rue Jean Jaurès, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "07/05/2006",
+        "emailAmu": "camille.bernard@etu.univ-amu.fr",
+        "emailPerso": "camille.bernard@gmail.com",
+        "nom": "BERNARD",
+        "numEtudiant": "25052341",
+        "numINE": "0645678901E",
+        "prenom": "Camille",
+        "section": "MMI BUT 1",
+        "telPersonnel": "0667890123"
+    },
+    {
+        "absences": [
+            {
+                "date": "08/10/2024",
+                "dureeCours": "2h",
+                "estJustifiee": false,
+                "motif": "",
+                "titreCours": "Bases de données"
+            },
+            {
+                "date": "15/11/2024",
+                "dureeCours": "1h30",
+                "estJustifiee": true,
+                "motif": "Maladie",
+                "titreCours": "Réseaux"
+            },
+            {
+                "date": "03/02/2025",
+                "dureeCours": "3h",
+                "estJustifiee": false,
+                "motif": "",
+                "titreCours": "Programmation orientée objet"
+            }
+        ],
+        "adresseParents": "2 chemin des Pins, 13400 Aubagne",
+        "adressePerso": "5 impasse des Oliviers, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "19/11/2004",
+        "emailAmu": "lucas.moreau@etu.univ-amu.fr",
+        "emailPerso": "lucas.moreau@gmail.com",
+        "nom": "MOREAU",
+        "numEtudiant": "24063712",
+        "numINE": "0456789012F",
+        "prenom": "Lucas",
+        "section": "Info BUT 2",
+        "telPersonnel": "0678901234"
+    },
+    {
+        "absences": [],
+        "adresseParents": "45 boulevard Michelet, 13008 Marseille",
+        "adressePerso": "11 rue Gambetta, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "25/03/2005",
+        "emailAmu": "emma.simon@etu.univ-amu.fr",
+        "emailPerso": "emma.simon@yahoo.fr",
+        "nom": "SIMON",
+        "numEtudiant": "24071534",
+        "numINE": "0567890123G",
+        "prenom": "Emma",
+        "section": "Info BUT 2",
+        "telPersonnel": "0689012345"
+    },
+    {
+        "absences": [
+            {
+                "date": "20/09/2024",
+                "dureeCours": "2h",
+                "estJustifiee": true,
+                "motif": "Convocation administrative",
+                "titreCours": "Développement web"
+            }
+        ],
+        "adresseParents": "30 rue de la Cavalerie, 13200 Arles",
+        "adressePerso": "30 rue de la Cavalerie, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "02/08/2004",
+        "emailAmu": "antoine.lefebvre@etu.univ-amu.fr",
+        "emailPerso": "antoinelefebvre@gmail.com",
+        "nom": "LEFEBVRE",
+        "numEtudiant": "24079856",
+        "numINE": "0478901234H",
+        "prenom": "Antoine",
+        "section": "MMI BUT 2",
+        "telPersonnel": "0701234567"
+    },
+    {
+        "absences": [],
+        "adresseParents": "18 rue Sainte, 13001 Marseille",
+        "adressePerso": "6 avenue de Stalingrad, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "11/12/2003",
+        "emailAmu": "maria.garcia@etu.univ-amu.fr",
+        "emailPerso": "maria.garcia@gmail.com",
+        "nom": "GARCIA",
+        "numEtudiant": "23089423",
+        "numINE": "0389012345I",
+        "prenom": "Maria",
+        "section": "Info BUT 3",
+        "telPersonnel": "0712345678"
+    },
+    {
+        "absences": [
+            {
+                "date": "14/10/2024",
+                "dureeCours": "4h",
+                "estJustifiee": true,
+                "motif": "Stage professionnel",
+                "titreCours": "Gestion de projet"
+            }
+        ],
+        "adresseParents": "27 avenue du Prado, 13006 Marseille",
+        "adressePerso": "9 rue du 4 Septembre, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "28/04/2003",
+        "emailAmu": "jules.martinez@etu.univ-amu.fr",
+        "emailPerso": "jules.martinez@hotmail.fr",
+        "nom": "MARTINEZ",
+        "numEtudiant": "23094107",
+        "numINE": "0390123456J",
+        "prenom": "Jules",
+        "section": "Info BUT 3",
+        "telPersonnel": "0723456789"
+    },
+    {
+        "absences": [],
+        "adresseParents": "3 rue du Docteur Fanton, 13200 Arles",
+        "adressePerso": "14 rue Emile Zola, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "16/06/2006",
+        "emailAmu": "aminata.diallo@etu.univ-amu.fr",
+        "emailPerso": "aminata.diallo@gmail.com",
+        "nom": "DIALLO",
+        "numEtudiant": "25103284",
+        "numINE": "0601234567K",
+        "prenom": "Aminata",
+        "section": "Info BUT 1",
+        "telPersonnel": "0634567890"
+    },
+    {
+        "absences": [
+            {
+                "date": "25/02/2025",
+                "dureeCours": "2h",
+                "estJustifiee": false,
+                "motif": "",
+                "titreCours": "Programmation C"
+            }
+        ],
+        "adresseParents": "2 rue Mireille, 13200 Arles",
+        "adressePerso": "2 rue Mireille, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "09/01/2005",
+        "emailAmu": "mamadou.kouyate@etu.univ-amu.fr",
+        "emailPerso": "mamadou.kouyate@gmail.com",
+        "nom": "KOUYATE",
+        "numEtudiant": "25117645",
+        "numINE": "0512345678L",
+        "prenom": "Mamadou",
+        "section": "Info BUT 1",
+        "telPersonnel": "0645678901"
+    },
+    {
+        "absences": [
+            {
+                "date": "07/11/2024",
+                "dureeCours": "1h30",
+                "estJustifiee": true,
+                "motif": "Maladie",
+                "titreCours": "Mathématiques"
+            },
+            {
+                "date": "22/01/2025",
+                "dureeCours": "3h",
+                "estJustifiee": true,
+                "motif": "Maladie",
+                "titreCours": "Algorithmique"
+            }
+        ],
+        "adresseParents": "10 rue du Rempart, 13500 Martigues",
+        "adressePerso": "19 allée des Platanes, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "03/09/2004",
+        "emailAmu": "yasmine.ben-salah@etu.univ-amu.fr",
+        "emailPerso": "yasmine.bensalah@gmail.com",
+        "nom": "BEN SALAH",
+        "numEtudiant": "24128934",
+        "numINE": "0423456789M",
+        "prenom": "Yasmine",
+        "section": "Info BUT 2",
+        "telPersonnel": "0656789012"
+    },
+    {
+        "absences": [],
+        "adresseParents": "55 rue Paradis, 13006 Marseille",
+        "adressePerso": "7 boulevard des Lices, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "20/10/2005",
+        "emailAmu": "mei.chen@etu.univ-amu.fr",
+        "emailPerso": "mei.chen@gmail.com",
+        "nom": "CHEN",
+        "numEtudiant": "25139012",
+        "numINE": "0534567891N",
+        "prenom": "Mei",
+        "section": "MMI BUT 1",
+        "telPersonnel": "0667890124"
+    },
+    {
+        "absences": [
+            {
+                "date": "30/09/2024",
+                "dureeCours": "2h",
+                "estJustifiee": false,
+                "motif": "",
+                "titreCours": "Développement web"
+            }
+        ],
+        "adresseParents": "4 avenue du Château de Jouques, 13420 Gemenos",
+        "adressePerso": "23 rue de la Roquette, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "05/07/2004",
+        "emailAmu": "van-duc.nguyen@etu.univ-amu.fr",
+        "emailPerso": "vanduc.nguyen@gmail.com",
+        "nom": "NGUYEN",
+        "numEtudiant": "24141267",
+        "numINE": "0445678902O",
+        "prenom": "Van Duc",
+        "section": "MMI BUT 2",
+        "telPersonnel": "0678901235"
+    },
+    {
+        "absences": [],
+        "adresseParents": "35 rue Voltaire, 13200 Arles",
+        "adressePerso": "35 rue Voltaire, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "13/03/2003",
+        "emailAmu": "alexis.petit@etu.univ-amu.fr",
+        "emailPerso": "alexis.petit@gmail.com",
+        "nom": "PETIT",
+        "numEtudiant": "23152890",
+        "numINE": "0356789013P",
+        "prenom": "Alexis",
+        "section": "MMI BUT 3",
+        "telPersonnel": "0701234568"
+    },
+    {
+        "absences": [
+            {
+                "date": "17/04/2025",
+                "dureeCours": "2h",
+                "estJustifiee": true,
+                "motif": "Maladie",
+                "titreCours": "Programmation Python"
+            }
+        ],
+        "adresseParents": "9 avenue Jean Moulin, 13100 Aix-en-Provence",
+        "adressePerso": "16 rue Balze, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "27/08/2006",
+        "emailAmu": "lea.rousseau@etu.univ-amu.fr",
+        "emailPerso": "lea.rousseau@outlook.fr",
+        "nom": "ROUSSEAU",
+        "numEtudiant": "25163478",
+        "numINE": "0667890124Q",
+        "prenom": "Léa",
+        "section": "Info BUT 1",
+        "telPersonnel": "0712345679"
+    },
+    {
+        "absences": [],
+        "adresseParents": "4 rue du Portail Laure, 13200 Arles",
+        "adressePerso": "4 rue du Portail Laure, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "01/11/2005",
+        "emailAmu": "fatima.lopez@etu.univ-amu.fr",
+        "emailPerso": "fatima.lopez@gmail.com",
+        "nom": "LOPEZ",
+        "numEtudiant": "25174523",
+        "numINE": "0578901235R",
+        "prenom": "Fatima",
+        "section": "MMI BUT 1",
+        "telPersonnel": "0623456790"
+    },
+    {
+        "absences": [
+            {
+                "date": "28/01/2025",
+                "dureeCours": "1h30",
+                "estJustifiee": false,
+                "motif": "",
+                "titreCours": "Expression et communication"
+            },
+            {
+                "date": "11/03/2025",
+                "dureeCours": "3h",
+                "estJustifiee": true,
+                "motif": "Rendez-vous médical",
+                "titreCours": "Algorithmique"
+            }
+        ],
+        "adresseParents": "67 cours Julien, 13006 Marseille",
+        "adressePerso": "10 rue du Cloître, 13200 Arles",
+        "cheminPhoto": "",
+        "dateNaissance": "18/05/2006",
+        "emailAmu": "theo.gonzalez@etu.univ-amu.fr",
+        "emailPerso": "theo.gonzalez@gmail.com",
+        "nom": "GONZALEZ",
+        "numEtudiant": "25185631",
+        "numINE": "0689012346S",
+        "prenom": "Théo",
+        "section": "Info BUT 1",
+        "telPersonnel": "0634567891"
+    }
+]

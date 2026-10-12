@@ -1,0 +1,401 @@
+<etudiants>
+      <etudiant>
+          <nom>MARTIN</nom>
+          <prenom>Lucas</prenom>
+          <dateNaissance>12/03/2005</dateNaissance>
+          <numEtudiant>22001001</numEtudiant>
+          <numINE>5A22001001A</numINE>
+          <telPersonnel>0612345601</telPersonnel>
+          <emailAmu>lucas.martin@etu.univ-amu.fr</emailAmu>
+          <emailPerso>lucas.martin@gmail.com</emailPerso>
+          <adressePerso>12 rue des Lilas, 13200 Arles</adressePerso>
+          <adresseParents>12 rue des Lilas, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 1</section>
+          <absence>
+              <date>15/04/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Rendez-vous médical</motif>
+              <titreCours>Mathématiques</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+          <absence>
+              <date>22/04/2026</date>
+              <justifiee>false</justifiee>
+              <motif></motif>
+              <titreCours>Algorithmique</titreCours>
+              <dureeCours>1h30</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>BERNARD</nom>
+          <prenom>Camille</prenom>
+          <dateNaissance>27/07/2004</dateNaissance>
+          <numEtudiant>22001002</numEtudiant>
+          <numINE>5A22001002B</numINE>
+          <telPersonnel>0612345602</telPersonnel>
+          <emailAmu>camille.bernard@etu.univ-amu.fr</emailAmu>
+          <emailPerso>camille.bernard@outlook.com</emailPerso>
+          <adressePerso>3 avenue Victor Hugo, 13200 Arles</adressePerso>
+          <adresseParents>3 avenue Victor Hugo, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 1</section>
+      </etudiant>
+      <etudiant>
+          <nom>DUBOIS</nom>
+          <prenom>Théo</prenom>
+          <dateNaissance>05/11/2004</dateNaissance>
+          <numEtudiant>22001003</numEtudiant>
+          <numINE>5A22001003C</numINE>
+          <telPersonnel>0612345603</telPersonnel>
+          <emailAmu>theo.dubois@etu.univ-amu.fr</emailAmu>
+          <emailPerso>theo.dubois@gmail.com</emailPerso>
+          <adressePerso>8 boulevard Clemenceau, 13200 Arles</adressePerso>
+          <adresseParents>15 chemin du Moulin, 13150 Tarascon</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 1</section>
+          <absence>
+              <date>10/03/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Maladie certificat fourni</motif>
+              <titreCours>Programmation C++</titreCours>
+              <dureeCours>3h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>LEROY</nom>
+          <prenom>Manon</prenom>
+          <dateNaissance>19/01/2005</dateNaissance>
+          <numEtudiant>22001004</numEtudiant>
+          <numINE>5A22001004D</numINE>
+          <telPersonnel>0612345604</telPersonnel>
+          <emailAmu>manon.leroy@etu.univ-amu.fr</emailAmu>
+          <emailPerso>manon.leroy@yahoo.fr</emailPerso>
+          <adressePerso>22 rue de la République, 13200 Arles</adressePerso>
+          <adresseParents>22 rue de la République, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 2</section>
+      </etudiant>
+      <etudiant>
+          <nom>MOREAU</nom>
+          <prenom>Antoine</prenom>
+          <dateNaissance>30/09/2003</dateNaissance>
+          <numEtudiant>21001005</numEtudiant>
+          <numINE>5A21001005E</numINE>
+          <telPersonnel>0612345605</telPersonnel>
+          <emailAmu>antoine.moreau@etu.univ-amu.fr</emailAmu>
+          <emailPerso>antoine.moreau@gmail.com</emailPerso>
+          <adressePerso>5 impasse des Oliviers, 13200 Arles</adressePerso>
+          <adresseParents>5 impasse des Oliviers, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 2</section>
+          <absence>
+              <date>08/02/2026</date>
+              <justifiee>false</justifiee>
+              <motif></motif>
+              <titreCours>Réseaux</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+          <absence>
+              <date>14/03/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Convocation préfecture</motif>
+              <titreCours>Anglais</titreCours>
+              <dureeCours>1h30</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>PETIT</nom>
+          <prenom>Jade</prenom>
+          <dateNaissance>14/06/2003</dateNaissance>
+          <numEtudiant>21001006</numEtudiant>
+          <numINE>5A21001006F</numINE>
+          <telPersonnel>0612345606</telPersonnel>
+          <emailAmu>jade.petit@etu.univ-amu.fr</emailAmu>
+          <emailPerso>jade.petit@gmail.com</emailPerso>
+          <adressePerso>17 rue Voltaire, 13200 Arles</adressePerso>
+          <adresseParents>4 route de Nîmes, 30300 Beaucaire</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 2</section>
+      </etudiant>
+      <etudiant>
+          <nom>GARCIA</nom>
+          <prenom>Hugo</prenom>
+          <dateNaissance>03/04/2002</dateNaissance>
+          <numEtudiant>20001007</numEtudiant>
+          <numINE>5A20001007G</numINE>
+          <telPersonnel>0612345607</telPersonnel>
+          <emailAmu>hugo.garcia@etu.univ-amu.fr</emailAmu>
+          <emailPerso>hugo.garcia@hotmail.com</emailPerso>
+          <adressePerso>9 rue du Palais, 13200 Arles</adressePerso>
+          <adresseParents>9 rue du Palais, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 3</section>
+          <absence>
+              <date>20/01/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Entretien stage</motif>
+              <titreCours>Projet tutoré</titreCours>
+              <dureeCours>4h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>ROUX</nom>
+          <prenom>Léa</prenom>
+          <dateNaissance>22/12/2002</dateNaissance>
+          <numEtudiant>20001008</numEtudiant>
+          <numINE>5A20001008H</numINE>
+          <telPersonnel>0612345608</telPersonnel>
+          <emailAmu>lea.roux@etu.univ-amu.fr</emailAmu>
+          <emailPerso>lea.roux@gmail.com</emailPerso>
+          <adressePerso>31 avenue de la Gare, 13200 Arles</adressePerso>
+          <adresseParents>31 avenue de la Gare, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 3</section>
+      </etudiant>
+      <etudiant>
+          <nom>FOURNIER</nom>
+          <prenom>Nathan</prenom>
+          <dateNaissance>17/08/2002</dateNaissance>
+          <numEtudiant>20001009</numEtudiant>
+          <numINE>5A20001009I</numINE>
+          <telPersonnel>0612345609</telPersonnel>
+          <emailAmu>nathan.fournier@etu.univ-amu.fr</emailAmu>
+          <emailPerso>nathan.fournier@gmail.com</emailPerso>
+          <adressePerso>6 rue Jouvène, 13200 Arles</adressePerso>
+          <adresseParents>6 rue Jouvène, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 3</section>
+          <absence>
+              <date>05/05/2026</date>
+              <justifiee>false</justifiee>
+              <motif></motif>
+              <titreCours>Développement Web</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>LAMBERT</nom>
+          <prenom>Inès</prenom>
+          <dateNaissance>08/02/2005</dateNaissance>
+          <numEtudiant>22002001</numEtudiant>
+          <numINE>5A22002001J</numINE>
+          <telPersonnel>0612345610</telPersonnel>
+          <emailAmu>ines.lambert@etu.univ-amu.fr</emailAmu>
+          <emailPerso>ines.lambert@gmail.com</emailPerso>
+          <adressePerso>14 rue de la Cavalerie, 13200 Arles</adressePerso>
+          <adresseParents>14 rue de la Cavalerie, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 1</section>
+          <absence>
+              <date>18/03/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Maladie</motif>
+              <titreCours>Design graphique</titreCours>
+              <dureeCours>3h</dureeCours>
+          </absence>
+          <absence>
+              <date>19/03/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Maladie suite</motif>
+              <titreCours>Communication visuelle</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>GIRARD</nom>
+          <prenom>Maxime</prenom>
+          <dateNaissance>25/05/2005</dateNaissance>
+          <numEtudiant>22002002</numEtudiant>
+          <numINE>5A22002002K</numINE>
+          <telPersonnel>0612345611</telPersonnel>
+          <emailAmu>maxime.girard@etu.univ-amu.fr</emailAmu>
+          <emailPerso>maxime.girard@outlook.com</emailPerso>
+          <adressePerso>2 place du Forum, 13200 Arles</adressePerso>
+          <adresseParents>2 place du Forum, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 1</section>
+      </etudiant>
+      <etudiant>
+          <nom>CHEVALIER</nom>
+          <prenom>Zoé</prenom>
+          <dateNaissance>11/10/2004</dateNaissance>
+          <numEtudiant>22002003</numEtudiant>
+          <numINE>5A22002003L</numINE>
+          <telPersonnel>0612345612</telPersonnel>
+          <emailAmu>zoe.chevalier@etu.univ-amu.fr</emailAmu>
+          <emailPerso>zoe.chevalier@gmail.com</emailPerso>
+          <adressePerso>19 rue Molière, 13200 Arles</adressePerso>
+          <adresseParents>7 chemin des Alpilles, 13520 Maussane</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 1</section>
+          <absence>
+              <date>02/04/2026</date>
+              <justifiee>false</justifiee>
+              <motif></motif>
+              <titreCours>Photographie</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>ROBIN</nom>
+          <prenom>Elodie</prenom>
+          <dateNaissance>16/03/2003</dateNaissance>
+          <numEtudiant>21002004</numEtudiant>
+          <numINE>5A21002004M</numINE>
+          <telPersonnel>0612345613</telPersonnel>
+          <emailAmu>elodie.robin@etu.univ-amu.fr</emailAmu>
+          <emailPerso>elodie.robin@gmail.com</emailPerso>
+          <adressePerso>45 boulevard des Lices, 13200 Arles</adressePerso>
+          <adresseParents>45 boulevard des Lices, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 2</section>
+      </etudiant>
+      <etudiant>
+          <nom>DAVID</nom>
+          <prenom>Romain</prenom>
+          <dateNaissance>29/07/2003</dateNaissance>
+          <numEtudiant>21002005</numEtudiant>
+          <numINE>5A21002005N</numINE>
+          <telPersonnel>0612345614</telPersonnel>
+          <emailAmu>romain.david@etu.univ-amu.fr</emailAmu>
+          <emailPerso>romain.david@hotmail.fr</emailPerso>
+          <adressePerso>11 rue Jean Jaurès, 13200 Arles</adressePerso>
+          <adresseParents>11 rue Jean Jaurès, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 2</section>
+          <absence>
+              <date>12/02/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Compétition sportive</motif>
+              <titreCours>Intégration web</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+          <absence>
+              <date>13/02/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Compétition sportive suite</motif>
+              <titreCours>UX Design</titreCours>
+              <dureeCours>3h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>BERTRAND</nom>
+          <prenom>Clara</prenom>
+          <dateNaissance>04/12/2003</dateNaissance>
+          <numEtudiant>21002006</numEtudiant>
+          <numINE>5A21002006O</numINE>
+          <telPersonnel>0612345615</telPersonnel>
+          <emailAmu>clara.bertrand@etu.univ-amu.fr</emailAmu>
+          <emailPerso>clara.bertrand@gmail.com</emailPerso>
+          <adressePerso>33 avenue Sadi Carnot, 13200 Arles</adressePerso>
+          <adresseParents>33 avenue Sadi Carnot, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 2</section>
+      </etudiant>
+      <etudiant>
+          <nom>SIMON</nom>
+          <prenom>Baptiste</prenom>
+          <dateNaissance>20/06/2002</dateNaissance>
+          <numEtudiant>20002007</numEtudiant>
+          <numINE>5A20002007P</numINE>
+          <telPersonnel>0612345616</telPersonnel>
+          <emailAmu>baptiste.simon@etu.univ-amu.fr</emailAmu>
+          <emailPerso>baptiste.simon@gmail.com</emailPerso>
+          <adressePerso>7 rue Amédée Pichot, 13200 Arles</adressePerso>
+          <adresseParents>7 rue Amédée Pichot, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 3</section>
+          <absence>
+              <date>25/03/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Entretien de stage</motif>
+              <titreCours>Projet multimédia</titreCours>
+              <dureeCours>4h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>MICHEL</nom>
+          <prenom>Lucie</prenom>
+          <dateNaissance>13/09/2002</dateNaissance>
+          <numEtudiant>20002008</numEtudiant>
+          <numINE>5A20002008Q</numINE>
+          <telPersonnel>0612345617</telPersonnel>
+          <emailAmu>lucie.michel@etu.univ-amu.fr</emailAmu>
+          <emailPerso>lucie.michel@yahoo.fr</emailPerso>
+          <adressePerso>26 rue du 4 Septembre, 13200 Arles</adressePerso>
+          <adresseParents>26 rue du 4 Septembre, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 3</section>
+      </etudiant>
+      <etudiant>
+          <nom>THOMAS</nom>
+          <prenom>Kevin</prenom>
+          <dateNaissance>07/02/2002</dateNaissance>
+          <numEtudiant>20002009</numEtudiant>
+          <numINE>5A20002009R</numINE>
+          <telPersonnel>0612345618</telPersonnel>
+          <emailAmu>kevin.thomas@etu.univ-amu.fr</emailAmu>
+          <emailPerso>kevin.thomas@gmail.com</emailPerso>
+          <adressePerso>18 rue Jouvène, 13200 Arles</adressePerso>
+          <adresseParents>3 allée des Platanes, 13460 Saintes-Maries-de-la-Mer</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 3</section>
+          <absence>
+              <date>15/01/2026</date>
+              <justifiee>false</justifiee>
+              <motif></motif>
+              <titreCours>Vidéo et montage</titreCours>
+              <dureeCours>3h</dureeCours>
+          </absence>
+          <absence>
+              <date>16/01/2026</date>
+              <justifiee>false</justifiee>
+              <motif></motif>
+              <titreCours>Animation 3D</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+          <absence>
+              <date>17/01/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Certificat médical transmis</motif>
+              <titreCours>Son et audio</titreCours>
+              <dureeCours>2h</dureeCours>
+          </absence>
+      </etudiant>
+      <etudiant>
+          <nom>BLANC</nom>
+          <prenom>Pauline</prenom>
+          <dateNaissance>01/04/2005</dateNaissance>
+          <numEtudiant>22001010</numEtudiant>
+          <numINE>5A22001010S</numINE>
+          <telPersonnel>0612345619</telPersonnel>
+          <emailAmu>pauline.blanc@etu.univ-amu.fr</emailAmu>
+          <emailPerso>pauline.blanc@gmail.com</emailPerso>
+          <adressePerso>10 rue de la Roquette, 13200 Arles</adressePerso>
+          <adresseParents>10 rue de la Roquette, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>Info BUT 1</section>
+      </etudiant>
+      <etudiant>
+          <nom>HENRY</nom>
+          <prenom>Alexis</prenom>
+          <dateNaissance>23/11/2004</dateNaissance>
+          <numEtudiant>22002010</numEtudiant>
+          <numINE>5A22002010T</numINE>
+          <telPersonnel>0612345620</telPersonnel>
+          <emailAmu>alexis.henry@etu.univ-amu.fr</emailAmu>
+          <emailPerso>alexis.henry@outlook.com</emailPerso>
+          <adressePerso>55 avenue de Stalingrad, 13200 Arles</adressePerso>
+          <adresseParents>55 avenue de Stalingrad, 13200 Arles</adresseParents>
+          <cheminPhoto></cheminPhoto>
+          <section>MMI BUT 1</section>
+          <absence>
+              <date>07/05/2026</date>
+              <justifiee>true</justifiee>
+              <motif>Déplacement familial urgent</motif>
+              <titreCours>Introduction au design</titreCours>
+              <dureeCours>1h30</dureeCours>
+          </absence>
+      </etudiant>
+  </etudiants>

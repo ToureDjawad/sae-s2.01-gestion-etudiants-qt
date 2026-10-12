@@ -4,6 +4,8 @@ Application de bureau en C++ et Qt 6 pour charger, consulter, modifier et enregi
 
 **Auteurs :** Djawad TOURE ISSAHOU et Aldo Alex NGANJI
 
+![Capture : liste des étudiants chargée depuis le JSON de test, fiche détaillée et absences, interface en français](docs/capture.png)
+
 ## Fonctionnalités
 
 - Interface master / detail : liste des étudiants à gauche, fiche complète à droite (identité, coordonnées, photo, section).
